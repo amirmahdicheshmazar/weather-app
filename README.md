@@ -1,2 +1,1 @@
-# weather-app
-this is app that you can check the weather of your city.
+Demo of weatherapp : https://weatherapp-amirmahdi.netlify.app/
